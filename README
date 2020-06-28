@@ -1,3 +1,8 @@
+This repository provides the code for the following paper:
+Ran Haba, Ehsan Kazemi, Moran Feldman, and Amin Karbasi. Streaming Submodular Maximization under a k-Set System Constraint. In International Conference on Machine Learning (ICML), 2020.
+Link to the paper: https://arxiv.org/abs/2002.03352
+The YouTube link to the presentation: https://youtu.be/5ZjA4GWi8mY
+
 The codes and datasets we used in our experimental evaluations are given here.
 
 1. utility_functions.py contains the data loaders, constraints and functions.
